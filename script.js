@@ -1,5 +1,5 @@
 
-     let menu = document.querySelector('#menu-bar');
+     const menu = document.querySelector('#menu-bar');
     let head = document.querySelector('.head .navbar');
 
     menu.onclick = () => {
